@@ -24,8 +24,8 @@ cy.get('[data-testid=online]').click()
 cy.get('[data-testid="CourseURL*(mustbeyoutube)"]').type("https://www.youtube.com/watch?v=QhWDZe8t7YU")
 cy.get('.css-tzsjye > .MuiButton-root').click()
 cy.get('.css-tzsjye > .MuiButton-root').click()
-cy.get('.css-tzsjye > .MuiButton-root').click()
-cy.get('.MuiToolbar-root > .MuiButton-root').click()
+
+
 
 
   
